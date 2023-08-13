@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Brush Script MT';
+    src: url('../fonts/font/BrushScriptMT.woff2') format('woff2'),
+        url('../fonts/font/BrushScriptMT.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../fonts/font/ProximaNova-Bold.woff2') format('woff2'),
+        url('../fonts/font/ProximaNova-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/font/HelveticaNeue-Medium.woff2') format('woff2'),
+        url('../fonts/font/HelveticaNeue-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/font/HelveticaNeue.woff2') format('woff2'),
+        url('../fonts/font/HelveticaNeue.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('../fonts/font/HelveticaNeueBold.woff2') format('woff2'),
+        url('../fonts/font/HelveticaNeueBold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
