@@ -136,7 +136,9 @@ p{
   list-style: none;
   display: inline-block;
 }
-
+.logo-area a img {
+    filter: invert(75%) sepia(48%) saturate(2534%) hue-rotate(192deg) brightness(74%) contrast(80%);
+}
 .menu-area nav ul li a {
   font-size: 16px;
   display: inline-block;
